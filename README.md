@@ -5,4 +5,4 @@
 3. Open the folder and navigate to the "followers_and_following" folder. There you can find the necessary files "followers.json" and "following.json".
 4. Create a new folder anywhere on your computer and copy the two files into that new folder.
 5. Copy the script from "main.py" into that same folder.
-6. Run "main.py" using an IDE of your choice.
+6. Open the folder in an IDE of your choice (or upload the corresponding files to Replit) and run "main.py".
